@@ -17,7 +17,7 @@ Hi, I'm Garvit Joshi, A Student and Learner 🚀 from Uttarakhand India, current
 
  ![Leetcode Stats](https://leetcode.card.workers.dev/Garvit46?theme=default&font=baloo&extension=null)
  <br>
- ![Hackerrank] - https://www.hackerrank.com/garvitjoshi46
+ • Hackerrank : https://www.hackerrank.com/garvitjoshi46
  ### 🤝 Connect with me:
  ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)- https://www.linkedin.com/in/garvit-joshi-b1a682215/
  <br>

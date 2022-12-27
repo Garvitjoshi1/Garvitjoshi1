@@ -1,4 +1,4 @@
-
+  [![HitCount](https://hits.dwyl.com/Garvitjoshi1/Garvitjoshi1.svg?style=flat-square)](http://hits.dwyl.com/Garvitjoshi1/Garvitjoshi1)
 ## Hello, I'm [Garvit Joshi!] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 ## just a Introduction:

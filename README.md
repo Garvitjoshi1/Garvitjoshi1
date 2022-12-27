@@ -25,3 +25,4 @@ Hi, I'm Garvit Joshi, A Student and Learner 🚀 from Uttarakhand India, current
  <br>
  ![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)- mailto: garvitjoshi46@gmail.com
  
+![Profile views](https://gpvc.arturio.dev/[Garvitjoshi1])

@@ -1,8 +1,6 @@
 
 ## Hello, I'm [Garvit Joshi!](https://google.com) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-Profile Hits : [![HitCount](https://hits.dwyl.com/Garvitjoshi1/Garvitjoshi1.svg?style=flat-square)](http://hits.dwyl.com/Garvitjoshi1/Garvitjoshi1
-
 ## just a Introduction:
 Hi, I'm Garvit Joshi, A Student and Learner 🚀 from Uttarakhand India, currently 💻 doing my undergraduate BTECH (1st year) from Lovely professional university and I am passionate about technology and want to learn & explore new technologies.Love to solve problem . 
 

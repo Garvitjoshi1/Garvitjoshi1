@@ -1,5 +1,5 @@
 
-## Hello, I'm [Garvit Joshi!](https://google.com) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+## Hello, I'm [Garvit Joshi!](https://github.com/Garvitjoshi1) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 ## just a Introduction:
 Hi, I'm Garvit Joshi, A Student and Learner 🚀 from Uttarakhand India, currently 💻 doing my undergraduate BTECH (1st year) from Lovely professional university and I am passionate about technology and want to learn & explore new technologies.Love to solve problem . 
@@ -12,7 +12,6 @@ Hi, I'm Garvit Joshi, A Student and Learner 🚀 from Uttarakhand India, current
 - 🌱 I’m currently learning DSA 🤟 ...
 - 💬 Ask me about anything, I am happy to help.
 
-## Competitive Programming [here](https://www.google.com)
 - LeetCode : Just Started (Data Structures and Algorithms)
  <br>
 

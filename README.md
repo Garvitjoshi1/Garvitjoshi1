@@ -8,9 +8,10 @@ I am passionate about technology and want to learn & explore new technologies.Lo
 ### Talking about Personal Stuffs:
 
 - 👋 Hi, I’m Garvit
-- 👀 I’m currently working As a intern at Internshala.
+- 👀 Was a Intern at Internshala as ISP.
+- 👀 Currently Contributor in GirlScript Summer of Code 2023 
 - 👀 I’m interested in Data Science, ML, AI.
-- 🌱 I’m currently learning DSA 🤟 ...
+- 🌱 I’m currently learning DSA 🤟 along with Data Science.
 - 💬 Ask me about anything, I am happy to help.
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Garvit46?theme=dark&font=Varela&ext=heatmap)

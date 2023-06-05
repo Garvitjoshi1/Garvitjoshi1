@@ -12,10 +12,13 @@ Hi, I'm Garvit Joshi, A Student and Learner 🚀 from Uttarakhand India, current
 - 🌱 I’m currently learning DSA 🤟 ...
 - 💬 Ask me about anything, I am happy to help.
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/Garvit46?theme=dark&font=Varela&ext=heatmap)
+
  ### 🤝 Connect with me:
  ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)- https://www.linkedin.com/in/garvit-joshi-b1a682215/
  <br>
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) -https://twitter.com/garvitjoshi46
+ ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) -https://twitter.com/garvitjoshi46
  <br>
- ![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)- Mail @: garvitjoshi46@gmail.com
+ ![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)- : garvitjoshi46@gmail.com
+ <br>
  

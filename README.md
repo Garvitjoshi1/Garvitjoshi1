@@ -1,10 +1,9 @@
-
 ## Hello, I'm [Garvit Joshi!](https://github.com/Garvitjoshi1) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-![IMAGE](https://cdn-images-1.medium.com/max/918/1*U3WRRwLx3zeDkHmIVGLJdw.gif) 
-
-## just a Introduction:
-Hi, I'm Garvit Joshi, A Student and Learner 🚀 from Uttarakhand India, currently 💻 doing my undergraduate BTECH (1st year) from Lovely professional university and I am passionate about technology and want to learn & explore new technologies.Love to solve problem . 
+## Just a Introduction:
+Hi, I'm Garvit Joshi, 
+A Student and Learner 🚀 from Uttarakhand India, currently 💻 doing my undergraduate BTECH (1st year) from Lovely professional university.
+I am passionate about technology and want to learn & explore new technologies.Love to solve problem . 
 
 ### Talking about Personal Stuffs:
 

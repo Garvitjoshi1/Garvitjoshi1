@@ -2,7 +2,7 @@
 
 ## Just a Introduction:
 Hi, I'm Garvit Joshi, 
-A Student and Learner 🚀 from Uttarakhand India, currently 💻 doing my undergraduate BTECH (1st year) from Lovely professional university.
+A Student and Learner 🚀 from Uttarakhand India, currently 💻 doing my undergraduate BTECH (3rd year) from Lovely professional university.
 I am passionate about technology and want to learn & explore new technologies.Love to solve problem . 
 
 ### Talking about Personal Stuffs:

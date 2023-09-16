@@ -32,6 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=garvitjoshi1&show_icons=true&locale=en" alt="garvitjoshi1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garvitjoshi1&" alt="garvitjoshi1" /></p>
-cience.
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Garvit46?theme=dark&font=Varela&ext=heatmap)

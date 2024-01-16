@@ -14,3 +14,5 @@
 - 💬 Ask me about **Python, Data Analysis**
 
 - 📫 How to reach me **https://linktr.ee/Garvit46**
+
+![Contributions](https://github-readme-stats.vercel.app/api?username=Garvitjoshi1&theme=algolia&show_icons=true)

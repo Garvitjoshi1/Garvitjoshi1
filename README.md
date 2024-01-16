@@ -16,3 +16,4 @@
 - 📫 How to reach me **https://linktr.ee/Garvit46**
 
 ![Contributions](https://github-readme-stats.vercel.app/api?username=Garvitjoshi1&theme=algolia&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Garvitjoshi1&theme=tokyonight)

@@ -83,7 +83,7 @@ but intelligence that collaborates, negotiates, and understands context.
 ### 🌐 Profiles
 
 <p align="center">
-  <a href="https://twitter.com/garvitjoshi01" target="_blank">
+  <a href="https://twitter.com/garvitlearns" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-0A66C2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/garvitjoshi01" target="_blank">
